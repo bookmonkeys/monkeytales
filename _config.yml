@@ -17,7 +17,7 @@ title: Monkeys
 email: jimken123@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tales for three monkeys and a wwodland creature of the forest floor.
-baseurl: "/monkeys" # the subpath of your site, e.g. /blog
+baseurl: "/hitchens" # the subpath of your site, e.g. /blog
 url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 github_username:  patdryburgh
