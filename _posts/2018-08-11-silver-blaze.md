@@ -1,7 +1,6 @@
 ---
 title: Silver Blaze
 author: Arthur Conan Doyle
-category: literature
 layout: post
 ---
 
