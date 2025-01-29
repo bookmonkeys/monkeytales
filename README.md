@@ -2,7 +2,7 @@
 
 ![monkeys](https://bookmonkeys.github.io/monkeytales/assets/images/monkeytales-index.png)
 
-/assets/images/monkeytales-index.png)
+/assets/images/monkeytales-index.png
 
 
 ## Based On
