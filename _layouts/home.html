@@ -37,4 +37,12 @@ layout: default
     {% endfor %}
     </ul>
 
+    <h1 class="content-title divided">
+      {% if site.paginate and site.paginate_path and paginator.page > 1 %}
+        Page {{ paginator.page }}
+      {% else %}
+        
+      {% endif %}
+    </h1>
+    
 </main>
