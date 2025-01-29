@@ -1,6 +1,6 @@
 # Monkey Tales
 
-![monkeys](https://bookmonkeys.github.io/monkeytasles/assets/images/monkeytales-index.png)
+![monkeys](https://bookmonkeys.github.io/monkeytales/assets/images/monkeytales-index.png)
 
 ## Based On
 
