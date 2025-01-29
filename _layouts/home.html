@@ -29,34 +29,10 @@ layout: default
     {% endif %}
   </h1>
 
-  aaaaaa
-
-  {% if site.paginate and site.paginate_path %}
-    
-    <ul class="post-list">
-      {% for post in paginator.posts %}
-        {% include post-list-item.html %}
-      {% endfor %}
-    </ul>
-
-  {% else %}
-
-    <ul class="post-list">
-      {% for post in site.posts %}
-        {% include post-list-item.html %}
-      {% endfor %}
-    </ul>
-  
-  {% endif %}
-    
-bbbbbb
-
     <ul class="post-list">
     {% for post in site.posts %}
       {% include post-list-item.html %}
     {% endfor %}
     </ul>
-
-ccccc
 
 </main>
