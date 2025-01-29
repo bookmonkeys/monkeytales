@@ -21,6 +21,8 @@ layout: default
 
 <main class="home" id="main" role="main" aria-label="Content">
 
+  <img src="/hitchens/assets/images/icon-512.png" alt="monkey tales">
+
   <h1 class="content-title divided">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
@@ -28,8 +30,6 @@ layout: default
       
     {% endif %}
   </h1>
-
-  <img src="/assets/images/icon-512.png" alt="monkey tales">
 
     <ul class="post-list">
     {% for post in site.posts %}
