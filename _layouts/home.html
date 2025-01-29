@@ -49,9 +49,11 @@ layout: default
     
 ffffff
 
-<ul class="post-list">
-    {% include post-list-item.html %}
-</ul>
+    <ul class="post-list">
+    {% for post in site.posts %}
+      {% include post-list-item.html %}
+    {% endfor %}
+    </ul>
 
 fffffff
 
