@@ -2,6 +2,15 @@
 layout: default
 ---
 
+{% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
+{% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
+{% else %}
+  <header class="site-masthead">
+    {% if site.title %}
+      <h1>
+        {{ site.title }}
+      </h1>
+    {% endif %}
     {% if site.title %}
       <h2>
         {{ site.description }}
@@ -16,7 +25,7 @@ layout: default
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
     {% else %}
-      More stories
+      Stories
     {% endif %}
   </h1>
 
