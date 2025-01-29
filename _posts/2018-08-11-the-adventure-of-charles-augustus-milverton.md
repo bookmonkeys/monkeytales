@@ -14,6 +14,8 @@ an absolutely unique experience in the career both of Mr. Sherlock
 Holmes and of myself. The reader will excuse me if I conceal the date
 or any other fact by which he might trace the actual occurrence.
 
+![](https://sherlock-holm.es/stories/html/pictures/prio-1.png)
+
 We had been out for one of our evening rambles, Holmes and I, and had
 returned about six o'clock on a cold, frosty winter's evening. As
 Holmes turned up the lamp the light fell upon a card on the table. He
