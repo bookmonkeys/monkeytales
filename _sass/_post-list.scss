@@ -35,7 +35,7 @@
 }
 
 .post-link__heading {
-  display: block;
+  display: inline-block;
   @media (min-width: $on-tablet) {
     padding: .25em 0;
   }
