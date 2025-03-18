@@ -31,13 +31,11 @@ layout: default
     {% endif %}
   </h1>
 
-    <div class="container">
       <ul class="post-list">
     {% for post in site.posts %}
       {% include post-list-item.html %}
     {% endfor %}
     </ul>
-    </div>
   
     <h1 class="content-title divided">
       {% if site.paginate and site.paginate_path and paginator.page > 1 %}
@@ -47,4 +45,8 @@ layout: default
       {% endif %}
     </h1>
 
+    <h1 class="content-title divided">
+    Foo  
+    </h1>
+  
 </main>
