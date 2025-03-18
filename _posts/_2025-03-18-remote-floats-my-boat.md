@@ -4,10 +4,33 @@ layout: post
 author: Dr. Seuss
 ---
 
-Remote floats my boat,
+A - Remote floats my boat,
 
-See it yonder as I sit and ponder
-Tow it yonder so I may sit and ponder
+B - Tow it yonder that I can sit and ponder.
+
+A - My lifeboat afloat, sounds a grace note,
+
+B - Whistles away, into the wild blue wonder.
+
+C - water
+
+D -
+
+C - springwater
+
+D -
+
+E - 
+
+F -
+
+E - 
+
+F -
+
+G -
+
+G -
 
 ### Notes
 
