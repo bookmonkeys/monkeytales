@@ -31,12 +31,14 @@ layout: default
     {% endif %}
   </h1>
 
-    <ul class="post-list">
+    <div class="container">
+      <ul class="post-list">
     {% for post in site.posts %}
       {% include post-list-item.html %}
     {% endfor %}
     </ul>
-
+    </div>
+  
     <h1 class="content-title divided">
       {% if site.paginate and site.paginate_path and paginator.page > 1 %}
         Page {{ paginator.page }}
