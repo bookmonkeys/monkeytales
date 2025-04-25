@@ -14,7 +14,7 @@ When the giants came down from their high land above the plains and the valleys 
 
 The townsfolk would often hear them coming before they saw them, of course, especially if the giants came down from the mountain plateau early in the morning for market day. In the early years of the giants coming to visit the town, the mayor would be woken not by the thump thump of their huge footfall, but by the hammering on her door knocker of some concerned citizen shouting that the end had come, that we should all only be murdered in our beds. In the early years she would have jumped up in fright, in fright first of the hammering and second of the calamitous cracking of splintering oak branches as some giant accidentally snapped a 309 year old tree. 
 
-![monkeys](https://bookmonkeys.github.io/monkeytales/assets/images/icon-512.png)
+![monkeys](https://bookmonkeys.github.io/monkeytales/assets/images/lunapic-ink-portrait-orange.png)
 
 These days, however, the hammering on the door wasn't that of terrified citizenry afraid that their houses would be smashed, but more of politeness, to inform the mayor that she needed to get up to say hello to the nice visitors. Of course, the mayor had high notions of herself and would not 'get up' nor 'say hello' or any of that. She would, rather, 'arise' and 'greet' her 'esteemed guests.' Such was the Most Honourable Lord Mayor, in her dignified bearing, well, in her own mind at least.
 
