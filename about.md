@@ -5,7 +5,7 @@ title: About
 
 ## Monkey Tales
 
-These are stories that I have written for my children (the titular monkeys). 
+These are stories that I am writing for my children (the titular monkeys). 
 
 ![monkeys](https://bookmonkeys.github.io/monkeytales/assets/images/monkey-round.png)
 

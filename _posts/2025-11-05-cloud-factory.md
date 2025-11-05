@@ -4,8 +4,6 @@ layout: post
 author: Jim Kennedy
 ---
 
-# Nimbus at the cloud factory
-
 There wasn't a cloud in the sky, she knew, on her way down the garden path from her cottage. Even in the dark of the early morning, even without the moon on the ridge, she knew there were no cloud yet, there's wasn't a one. There wouldn't be even one until she got to the cloud factory in the village and started making them. For that was her job, every morning to prepare and release the clouds that would drift away whichever way the light autumn breeze would take them. The ground under her feet was crunchy, frozen. The frost on the grass like little clouds, she thought, amused at herself for seeing clouds and things about clouds everywhere. "Well, you do think about clouds all the time, Nimbus." she thought to herself. "It's to be expected when you are from the our family, the family in the cloud cottage."
 
 It wasn't yet light enough to see the factory ahead, its silver chimney, its long thin wooden building, the logpile outside. But she knew it was there, waiting to make clouds. Soon there would be deep, cottony ones, maybe wispy ones, or even little, fluffy clouds. She hadn't decided yet. 
